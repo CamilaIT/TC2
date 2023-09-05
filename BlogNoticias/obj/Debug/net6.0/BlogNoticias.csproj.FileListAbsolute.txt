@@ -1,0 +1,160 @@
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\appsettings.Development.json
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\appsettings.json
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\BlogNoticias.exe
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\BlogNoticias.deps.json
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\BlogNoticias.runtimeconfig.json
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\BlogNoticias.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\BlogNoticias.pdb
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Azure.Core.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Azure.Identity.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.csproj.AssemblyReference.cache
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.AssemblyInfoInputs.cache
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.AssemblyInfo.cs
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.csproj.CoreCompileInputs.cache
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.MvcApplicationPartsAssemblyInfo.cs
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.MvcApplicationPartsAssemblyInfo.cache
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets\msbuild.BlogNoticias.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets\msbuild.build.BlogNoticias.props
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlogNoticias.props
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlogNoticias.props
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets.build.json
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets.development.json
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\scopedcss\bundle\BlogNoticias.styles.css
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.csproj.CopyComplete
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\refint\BlogNoticias.dll
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.pdb
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.genruntimeconfig.cache
+C:\Cursos\FIAP\FASE 2\TechChallenge2\BlogNoticias\BlogNoticias\obj\Debug\net6.0\ref\BlogNoticias.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\appsettings.json
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\BlogNoticias.exe
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\BlogNoticias.deps.json
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\BlogNoticias.runtimeconfig.json
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\BlogNoticias.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\BlogNoticias.pdb
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.csproj.AssemblyReference.cache
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.AssemblyInfoInputs.cache
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.AssemblyInfo.cs
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.csproj.CoreCompileInputs.cache
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets\msbuild.BlogNoticias.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets\msbuild.build.BlogNoticias.props
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlogNoticias.props
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlogNoticias.props
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\scopedcss\bundle\BlogNoticias.styles.css
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.csproj.CopyComplete
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\refint\BlogNoticias.dll
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.pdb
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\BlogNoticias.genruntimeconfig.cache
+C:\Users\azureuser\Desktop\BlogNoticias\BlogNoticias\BlogNoticias\obj\Debug\net6.0\ref\BlogNoticias.dll
