@@ -60,7 +60,7 @@ namespace BlogNoticias.Controllers {
             return await Task.FromResult(noticia);
         }
 
-      [
+      
         [HttpDelete("{id}")]
         public async Task<ActionResult<Noticia>> Delete(int id) {
             var noticia = _INoticia.DeleteNoticia(id);
