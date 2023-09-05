@@ -8,7 +8,7 @@ namespace BlogNoticias.Models {
         public DatabaseContext(DbContextOptions<DatabaseContext> options)
             : base(options) {
         }
-
+        
         public virtual DbSet<Noticia>? Noticias { get; set; }
         public virtual DbSet<UserInfo>? UserInfos { get; set; }
 
